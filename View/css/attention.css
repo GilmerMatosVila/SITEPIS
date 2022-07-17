@@ -1,0 +1,24 @@
+.findUser {
+  width: 80%;
+  padding: 10px;
+}
+.userDetails {
+  padding: 10px;
+}
+
+.diagnostic {
+  padding: 10px;
+}
+
+.finalizar {
+  padding: 10px;
+  text-align: right;
+}
+
+footer
+{
+    margin-top:50px;
+    width:100%;
+    height:200px;
+    background-color:red;
+}
